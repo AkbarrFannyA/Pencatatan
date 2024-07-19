@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Caesar
+ * @author Akbar
  */
 public class NoteAppMenu {
 
