@@ -5,7 +5,7 @@ package com.asia.aplikasipencatatan;
 
 /**
  *
- * @author Caesar
+ * @author Akbar
  */
 public class AplikasiPencatatan {
 
